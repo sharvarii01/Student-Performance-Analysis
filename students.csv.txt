@@ -1,0 +1,6 @@
+RollNo,Name,Maths,Science,English
+1,Aarav,78,85,80
+2,Diya,92,88,90
+3,Rohan,65,70,68
+4,Ananya,88,90,85
+5,Kabir,55,60,58

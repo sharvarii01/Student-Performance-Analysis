@@ -1,0 +1,13 @@
+STUDENT PERFORMANCE ANALYSIS
+
+RollNo  Name  Average
+1       Aarav  81.00
+2	Diya   90.00
+3	Rohan  67.67
+4	Ananya 87.67
+5	Kabir  57.67
+
+Class Average: 76.4
+
+Top Performer: Diya
+Needs Improvement: Kabir
